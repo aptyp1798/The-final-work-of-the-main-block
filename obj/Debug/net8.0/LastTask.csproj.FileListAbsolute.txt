@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\bin\Debug\net8.0\LastTask.exe
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\bin\Debug\net8.0\LastTask.deps.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\bin\Debug\net8.0\LastTask.runtimeconfig.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\bin\Debug\net8.0\LastTask.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\bin\Debug\net8.0\LastTask.pdb
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.sourcelink.json
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\refint\LastTask.dll
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.pdb
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\LastTask.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Мои задачи\Знакомство с языками программирования\LastTask\obj\Debug\net8.0\ref\LastTask.dll
