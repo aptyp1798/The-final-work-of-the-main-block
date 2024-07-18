@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\LastTask\\LastTask.csproj",
+      "projectUniqueName": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\FinalWork\\LastTask.csproj",
       "projectName": "LastTask",
-      "projectPath": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\LastTask\\LastTask.csproj",
+      "projectPath": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\FinalWork\\LastTask.csproj",
       "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\LastTask\\obj\\",
+      "outputPath": "C:\\Users\\Артур\\Desktop\\Мои задачи\\Знакомство с языками программирования\\FinalWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артур\\AppData\\Roaming\\NuGet\\NuGet.Config"
